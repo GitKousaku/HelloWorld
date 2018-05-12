@@ -1,5 +1,6 @@
 Attribute VB_Name = "Module1"
 Sub hello()
     MsgBox ("Hello")
-    MsgBox ("GoodAfternoon")
+  MsgBox ("GoodMornging")
+  MsgBox ("GoodAfternoon")
 End Sub
